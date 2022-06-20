@@ -60,19 +60,19 @@ This list is also quite extensive which flags out how large the next tear of ret
 
 Re-Iterating the Results: 
 
-	*  The upcoming "silver tsunami" in which the company is going to lose a 				considerable amount of its employees to retirement (72,458 retiring employees)
+	*  The upcoming "silver tsunami" in which the company is going to lose a considerable amount of its employees to retirement (72,458 retiring employees)
 
-	*  The number of employees represents the number of positions that will need to be 			filled in the near future.
+	*  The number of employees represents the number of positions that will need to be filled in the near future.
 
-	*  The analysis revealed that a large amount of highly technical employees will be 			needed in the future.  25,916	Senior Engineers, 9,285	Engineers and 1,090 			Assistant Engineers.  This is not a small endeavor....
+	*  The analysis revealed that a large amount of highly technical employees will be needed in the future.  25,916 Senior Engineers, 9,285 Engineers and 1,090 		Assistant Engineers.  This is not a small endeavor....
 	
-	*  Furthermore 24,926 Senior Staff, 7,636 Staff, as well as 3,603 Technique Leaders, 		and 2 Managers will also be needed.
+	*  Furthermore 24,926 Senior Staff, 7,636 Staff, as well as 3,603 Technique Leaders, and 2 Managers will also be needed.
 
-	*  There are also good Mentoring Candidates in the next tear of 						employees to provide a some transition into the future. 1,940 to be exact.
+	*  There are also good Mentoring Candidates in the next tear of employees to provide a some transition into the future. 1,940 to be exact.
 
-	*  However, 1,940 Mentoring Candidates in comparison to 72,458 seems like a very 			small number. 
+	*  However, 1,940 Mentoring Candidates in comparison to 72,458 seems like a very small number. 
 
-	*  Further breakdown of the mentoring candidates can be seen in a quick pivot table 		which was generated in Excel given that the database extraction yielded 			smaller sized lists that can be imported into Excel for quick and easy 				analysis.
+	*  Further breakdown of the mentoring candidates can be seen in a quick pivot table which was generated in Excel given that the database extraction yielded 		smaller sized lists that can be imported into Excel for quick and easy 	analysis.
 
 insert PATH\mentorship_eligibility_pivot.pdf
 
